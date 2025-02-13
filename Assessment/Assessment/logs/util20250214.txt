@@ -1,0 +1,296 @@
+2025-02-14 02:06:27.287 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 02:06:27.391 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 02:06:27.391 +05:30 [INF] Quartz Scheduler created
+2025-02-14 02:06:27.392 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 02:06:27.396 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 02:06:27.400 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 02:06:27.400 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 02:06:27.416 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 02:06:27.419 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 02:54:04.920 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 02:54:05.031 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 02:54:05.032 +05:30 [INF] Quartz Scheduler created
+2025-02-14 02:54:05.032 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 02:54:05.033 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 02:54:05.041 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 02:54:05.041 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 02:54:05.057 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 02:54:05.060 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 02:54:05.102 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 02:54:05.128 +05:30 [INF] Importing record started
+2025-02-14 02:54:06.819 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 02:54:06.841 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 02:54:06.873 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 02:54:06.893 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 02:54:06.923 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 02:54:06.944 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 02:54:06.973 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 02:54:06.993 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 02:54:07.016 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 02:54:07.038 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 02:54:07.039 +05:30 [INF] Importing record ended
+2025-02-14 02:54:07.039 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 02:55:17.394 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 02:55:17.508 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 02:55:17.509 +05:30 [INF] Quartz Scheduler created
+2025-02-14 02:55:17.510 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 02:55:17.518 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 02:55:17.518 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 02:55:17.518 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 02:55:17.535 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 02:55:17.539 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 02:55:17.579 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 02:55:17.603 +05:30 [INF] Importing record started
+2025-02-14 02:55:18.470 +05:30 [ERR] Error in Daily Data Refersh - 3D000: database "assessment" does not exist
+2025-02-14 03:03:08.947 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 03:03:09.085 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 03:03:09.085 +05:30 [INF] Quartz Scheduler created
+2025-02-14 03:03:09.086 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 03:03:09.087 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 03:03:09.088 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 03:03:09.099 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 03:03:09.116 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 03:03:09.120 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 03:03:09.160 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 03:03:09.209 +05:30 [INF] Importing record started
+2025-02-14 03:03:10.991 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:11.012 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:11.044 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:11.065 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:11.094 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:11.114 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:11.148 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:11.169 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:11.192 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:11.213 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:11.215 +05:30 [INF] Importing record ended
+2025-02-14 03:03:11.215 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 03:03:22.524 +05:30 [INF] Data Refersh Triggered
+2025-02-14 03:03:22.524 +05:30 [INF] Importing record started
+2025-02-14 03:03:22.619 +05:30 [INF] Importing record ended
+2025-02-14 03:03:22.619 +05:30 [INF] Data Refersh Completed
+2025-02-14 03:03:49.181 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 03:03:49.283 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 03:03:49.284 +05:30 [INF] Quartz Scheduler created
+2025-02-14 03:03:49.285 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 03:03:49.291 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 03:03:49.292 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 03:03:49.292 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 03:03:49.307 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 03:03:49.310 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 03:03:49.345 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 03:03:49.371 +05:30 [INF] Importing record started
+2025-02-14 03:03:50.950 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:50.974 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:51.021 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:51.044 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:51.075 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:51.095 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:51.126 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:51.147 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:03:51.172 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:51.194 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:03:51.196 +05:30 [INF] Importing record ended
+2025-02-14 03:03:51.196 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 03:04:00.808 +05:30 [INF] Data Refersh Triggered
+2025-02-14 03:04:00.808 +05:30 [INF] Importing record started
+2025-02-14 03:04:00.904 +05:30 [INF] Importing record ended
+2025-02-14 03:04:00.904 +05:30 [INF] Data Refersh Completed
+2025-02-14 03:06:56.576 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 03:06:56.715 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 03:06:56.715 +05:30 [INF] Quartz Scheduler created
+2025-02-14 03:06:56.724 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 03:06:56.725 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 03:06:56.725 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 03:06:56.725 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 03:06:56.742 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 03:06:56.746 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 03:06:56.782 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 03:06:56.806 +05:30 [INF] Importing record started
+2025-02-14 03:06:58.381 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:06:58.401 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:06:58.434 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:06:58.455 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:06:58.486 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:06:58.505 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:06:58.532 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:06:58.551 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:06:58.572 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:06:58.591 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:06:58.593 +05:30 [INF] Importing record ended
+2025-02-14 03:06:58.593 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 03:08:36.840 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 03:08:36.949 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 03:08:36.950 +05:30 [INF] Quartz Scheduler created
+2025-02-14 03:08:36.951 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 03:08:36.958 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 03:08:36.958 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 03:08:36.959 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 03:08:36.976 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 03:08:36.978 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 03:08:37.014 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 03:08:37.037 +05:30 [INF] Importing record started
+2025-02-14 03:08:38.804 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:08:38.822 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:08:38.852 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:08:38.871 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:08:38.898 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:08:38.917 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:08:38.944 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:08:38.963 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:08:38.986 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:08:39.005 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:08:39.007 +05:30 [INF] Importing record ended
+2025-02-14 03:08:39.007 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 03:53:23.014 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 03:53:23.121 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 03:53:23.122 +05:30 [INF] Quartz Scheduler created
+2025-02-14 03:53:23.122 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 03:53:23.123 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 03:53:23.133 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 03:53:23.133 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 03:53:23.149 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 03:53:23.152 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 03:53:23.192 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 03:53:23.220 +05:30 [INF] Importing record started
+2025-02-14 03:53:24.922 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:53:24.943 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:53:24.977 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:53:24.998 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:53:25.027 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:53:25.047 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:53:25.077 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:53:25.097 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 03:53:25.120 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:53:25.141 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 03:53:25.143 +05:30 [INF] Importing record ended
+2025-02-14 03:53:25.143 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 04:11:18.510 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 04:11:18.622 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 04:11:18.622 +05:30 [INF] Quartz Scheduler created
+2025-02-14 04:11:18.623 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 04:11:18.630 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 04:11:18.631 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 04:11:18.631 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 04:11:18.646 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 04:11:18.649 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 04:11:18.677 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 04:11:18.704 +05:30 [INF] Importing record started
+2025-02-14 04:11:20.351 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:11:20.371 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:11:20.403 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:11:20.422 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:11:20.452 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:11:20.473 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:11:20.502 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:11:20.522 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:11:20.545 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:11:20.565 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:11:20.566 +05:30 [INF] Importing record ended
+2025-02-14 04:11:20.567 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 04:51:45.437 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 04:51:45.546 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 04:51:45.546 +05:30 [INF] Quartz Scheduler created
+2025-02-14 04:51:45.547 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 04:51:45.557 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 04:51:45.558 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 04:51:45.558 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 04:51:45.573 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 04:51:45.575 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 04:51:45.616 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 04:51:45.643 +05:30 [INF] Importing record started
+2025-02-14 04:51:47.411 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.431 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.458 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.477 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.538 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:51:47.559 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:51:47.580 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.599 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.629 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:51:47.650 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:51:47.671 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.690 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.720 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:51:47.741 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:51:47.762 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.782 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.809 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:51:47.829 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:51:47.851 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:51:47.870 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:51:47.890 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.907 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:51:47.908 +05:30 [INF] Importing record ended
+2025-02-14 04:51:47.908 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 04:59:12.417 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 04:59:12.519 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 04:59:12.519 +05:30 [INF] Quartz Scheduler created
+2025-02-14 04:59:12.520 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 04:59:12.527 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 04:59:12.527 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 04:59:12.528 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 04:59:12.543 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 04:59:12.546 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 04:59:12.581 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 04:59:12.603 +05:30 [INF] Importing record started
+2025-02-14 04:59:14.108 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.127 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.151 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.168 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.231 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:59:14.252 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:59:14.272 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.291 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.321 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:59:14.342 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:59:14.361 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.378 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.404 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:59:14.423 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:59:14.443 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.459 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.484 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:59:14.504 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 04:59:14.544 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:59:14.563 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 04:59:14.583 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.600 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 04:59:14.600 +05:30 [INF] Importing record ended
+2025-02-14 04:59:14.600 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 05:04:31.113 +05:30 [INF] Default Quartz.NET properties loaded from embedded resource file
+2025-02-14 05:04:31.242 +05:30 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2025-02-14 05:04:31.242 +05:30 [INF] Quartz Scheduler created
+2025-02-14 05:04:31.243 +05:30 [INF] RAMJobStore initialized.
+2025-02-14 05:04:31.255 +05:30 [INF] Quartz Scheduler 3.13.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2025-02-14 05:04:31.256 +05:30 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2025-02-14 05:04:31.256 +05:30 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2025-02-14 05:04:31.271 +05:30 [INF] Daily Refersh Schedule Created
+2025-02-14 05:04:31.274 +05:30 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2025-02-14 05:04:31.324 +05:30 [INF] Daily Data Refersh Triggered
+2025-02-14 05:04:31.359 +05:30 [INF] Importing record started
+2025-02-14 05:04:33.052 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.071 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.097 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.116 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.171 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 05:04:33.193 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 05:04:33.214 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.234 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.265 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 05:04:33.285 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 05:04:33.306 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.325 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.354 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 05:04:33.377 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 05:04:33.399 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.421 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.460 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 05:04:33.483 +05:30 [ERR] Error in Adding customer -could not insert: [Assessment.Model.Customer][SQL: INSERT INTO Customers (Id, CustomerId, Name, Email, Address) VALUES (nextval ('hibernate_sequence'), ?, ?, ?, ?) returning Id]
+2025-02-14 05:04:33.511 +05:30 [ERR] Error in Adding record-could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 05:04:33.535 +05:30 [ERR] Error in Adding Product -could not insert: [Assessment.Model.Product][SQL: INSERT INTO Products (Id, ProductId, Name, Category) VALUES (nextval ('hibernate_sequence'), ?, ?, ?) returning Id]
+2025-02-14 05:04:33.564 +05:30 [ERR] Error in Adding record-No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.592 +05:30 [ERR] Error in Adding releation -No persister for: Assessment.Model.ReleationTable
+2025-02-14 05:04:33.592 +05:30 [INF] Importing record ended
+2025-02-14 05:04:33.592 +05:30 [INF] Daily Data Refersh Completed
+2025-02-14 05:07:12.219 +05:30 [ERR] Error in FetchByField record -Assessment.Model.ReleationTable is not mapped
